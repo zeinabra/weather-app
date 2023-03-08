@@ -62,14 +62,19 @@ li {
   list-style: none;
   margin-left: -30px;
 }
+
 .tempreture {
-color: rgb(33, 33, 33);
-font-size: 64px;
-font-weight: 400;
-line-height: 1;
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
 }
+
 .unit {
   position: relative;
   top: -34px;
 }
 
+#code-link {
+  text-align: center;
+}
