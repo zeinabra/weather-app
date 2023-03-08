@@ -74,3 +74,6 @@ li {
   position: relative;
   top: -34px;
 }
+#code-link {
+  text-align: center;
+}
